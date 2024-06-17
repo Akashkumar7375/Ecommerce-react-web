@@ -1,0 +1,36 @@
+
+#term {
+    padding: 100px 0px;
+}
+#term h1{
+    font-size: 5vh;
+    color: #088178;
+    text-align: center;
+  }
+  #term h2 {
+    font-size: 1.5em;
+    padding: 20px;
+  }
+  
+  #term ul {
+    list-style: disc;
+    margin-left: 20px;
+    padding-left: 50px;
+  }
+  
+  #term a {
+    color: #e06161;
+    text-decoration: underline;
+  }
+  #term a:hover{
+    color: #081196;
+  }
+  
+  #term main {
+    margin: 25px;
+  }
+  #term p{
+    padding-left: 40px;
+    margin-top: -15px;
+    padding-bottom: 20px;
+  }
